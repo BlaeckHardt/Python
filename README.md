@@ -12,4 +12,4 @@
 ![Imamgem de um cheems promgramador trismte](https://preview.redd.it/4f2g6f63zrl41.png?auto=webp&s=52ef5ad42a28c9edd931ca4f1a7a0cbb74c41288)
 
 Algunas ideas para el archivo [markdown](https://github.com/jfasebook/SoyInformatico/blob/master/README.md) (.md)
-https://rahuldkjain.github.io/gh-profile-readme-generator/
+
